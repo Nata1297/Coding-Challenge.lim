@@ -1,0 +1,88 @@
+body{
+  background-image: url("file:///Users/nataliashevchuk/Desktop/MaterialeEsercizioLim/background.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  background-size: cover;
+  background-color: white;
+  display: block;
+}
+
+
+.lim {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+}
+h1 {
+  color: #00DD00ff;
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+}
+.box {
+  background-color: #00DD00ff;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+}
+
+.container-monopattino {
+  font-family: sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 25px;
+  margin-right: 500px;
+  margin-left: 355px;
+  position: fixed;
+  display: block;
+}
+
+p{
+  font-size: 15px;
+  font-family: sans-serif;
+  color: white;
+  text-indent: 2px;
+  margin-top: 5px;
+  display: block;
+}
+.orangebar {
+  border-radius: 5px;
+  width: 300px;
+  height: 25px;
+  background-color: #F5B453ff;
+  display: block;
+}
+
+.greenbar {
+  width: 500px;
+  height: 25px;
+  border-radius: 5px;
+  background-color: #1EC31Eff;
+  display: block;
+}
+
+.redbar {
+  width: 150px;
+  height: 25px;
+  border-radius: 5px;
+  background-color: #BE4141ff;
+  display: block;
+}
+
+
+.sfondo {
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 500px;
+  border-radius: 15px;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: block;
+}
