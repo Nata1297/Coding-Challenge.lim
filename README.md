@@ -1,1 +1,2 @@
 # Coding-Challenge.lim
+Ho trovato non poche difficoltà per completare l'esercizio, ma più trovavo soluzioni e più mi divertivo. La soddisfazione di aver trovato un escamotage finalmente per l'opacità del secondo sfondo, era indescrivibile. Purtroppo non sono riuscita a impostare tutto bene e senza alcun dubbio c'è molto da lavorare sul fronte del layout e dimensioni, ma non vedo l'ora di migliorare e fare cose incredibili. 
